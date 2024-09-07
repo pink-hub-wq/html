@@ -1,0 +1,100 @@
+/* CSS Document */
+/* CSS Document */
+body,ul,li {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	}
+#a {
+	margin: 0px auto;
+	width: 1000px;
+	height: 750px;
+	}
+#b {
+	background-image: url(../images/expbanner.png);
+	background-size: 1000px 150px;
+	margin: 0px auto;
+	width: 1000px;
+	height: 150px;
+	}
+#c {
+	margin: 0px auto;
+	width: 1000px;
+	height: 600px;
+	background-color: #F5F5F5;
+	}
+#cleft {
+	float:left;
+	width:600px;
+	height:600px;
+	margin:0px 0px 0px 56px;
+	background-color: #FFF;
+	}
+#cright {
+	float:left;
+	width:270px;
+	height:200px;
+	margin:20px auto 0px 20px;
+	background-color: #F5F5F5;
+	border: 1px solid #3C6;
+	}
+#cixiu {
+	float:left;
+	margin:30px;
+	}
+#cixiuright {
+	margin:30px 0px 0px 0px;
+	float:left;
+	width:280px;
+	height:220px;
+	}
+#cixiuright h3 {
+	float:left;
+	color:#6F9;
+	}
+#cixiuright ul li {
+	float:left;
+	list-style: none;
+	font-size: 12px;
+	}
+#cixiuright li {
+	margin:10px auto 0px 0px;
+	}
+#se {
+	color:#F93;
+	}
+#cixiubottom {
+	float:left;
+	width:540px;
+	height:300px;
+	margin:0px 30px;
+	background-color: #F5F5F5;
+	}
+#cixiubottom h2 {
+	float:left;
+	color: #093;
+	}
+.d {
+	width:540px;
+	height:80px;
+	float:left;
+	}
+.biao {
+	float:left;
+	margin: 20px;
+	}
+.d font {
+	font-size: 14px;
+	}
+#cright h3 {
+	color:#F93;
+	margin:20px 10px;
+	}
+#g {
+	border-bottom: 1px solid #3C6;
+	height:60px;
+	}
+#ding {
+	float:left;
+	margin:20px 50px;
+	}

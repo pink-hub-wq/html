@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>百度首页</title>
+	<style>
+    	body { margin:0px; padding: 0px; font-size: 12px; }
+		p { margin:0px; padding: 0px; }
+		#top {
+			text-align: right;/*顶端的登录注册右边对齐*/
+			margin: 15px;/*顶端布局层与上下左右的外边距为15px*/
+			}
+		#top a {
+			/*顶端层中超链接的字体大小与颜色*/
+			font-size: 12px;
+			color: #00c;
+			}
+		/*中间层*/
+		#mid { text-align: center;/*设置内容居中*/}
+		/*导航样式*/
+		#nav { margin-bottom: 5px; padding-right: 80px; }
+		/*百度搜索输入框*/
+		#txtInput {
+			width: 418px;/*输入框的宽度*/
+			height: 30px;/*输入框的高度*/
+			border: 1px solid #ccc;/*边框的宽度，样式，颜色*/
+			font-size: 15px;/*输入字体的大写*/
+			}
+		/*设置图片按钮样式*/
+		.btn {
+			height: 32px;
+			width: 95px;
+			background-image: url(images/bd_btn.png);
+			background-repeat: no-repeat;
+			margin: 0px;
+			padding: 0px;
+			border: 0px;
+			margin-left: 10px;
+			}
+		/*设置选中后的效果*/
+		#focus {
+			text-decoration: none/*超链接无下划线*/
+			font-weight: bold;/*字体加粗*/
+			color: #000;/*字体颜色*/
+			}
+		#nav2 { margin-top: 25px;/*顶端外边距为25px*/}
+		/*底部的层*/
+		#footer { margin-top: 200px; text-align: center; }
+		/*设置超链接的样式*/
+		#footer a { color: #00c; font-size: 12px; margin: 0px 5px;}
+		#footer p { margin-top: 10px;/*设置段落的顶端外边距为10px*/}
+		#copyright { color: #666;/*设置字体颜色为灰色*/}
+		#copyright a { color: #666;/*版权部分的超链接颜色为灰色*/}
+    </style>
+</head>
+
+<body>
+	<div id="top">
+		<a href="#">搜索设置</a> | <a href="login.html">登录</a>&nbsp;<a href="reg.html">注册</a>    
+    </div>
+    <div id="mid">
+		<p><img src="images/logo.gif"/></p>
+        <p id="nav">
+			<a href="#">新闻</a> <a href="#" id="focus">网页</a> 
+            <a href="#">贴吧</a> <a href="#">知道</a> 
+            <a href="#">音乐</a> <a href="#">图片</a> 
+            <a href="#">视频</a> <a href="#">地图</a>        
+        </p>
+        <p>
+        	<form action="#" method="get">
+            	<input type="text" id="txtInput"/>
+                <input type="submit" class="btn" value="百度一下"/>
+            </form>
+        </p>
+        <p id="nav2">
+            <a href="#">百科</a> <a href="#">文库</a> 
+            <a href="#">hao123</a> | <a href="#">更多>> </a>      
+        </p>        
+    </div>
+    <div id="footer">
+		<p><a href="#">把百度设为主页</a> <a href="#">安装百度浏览器</a></p>    
+    	<p>
+            <a href="#">加入百度推广</a> | <a href="#">搜索风云榜</a> | 
+            <a href="#">关于百度</a> | <a href="#">About Baidu</a>      
+        </p>
+        <p id="copyright">
+			&copyright;2013 Baidu <a href="#">使用百度前必读</a>
+            京 ICP 证 030173 号<img src="images/gs.gif"/>        
+        </p>
+    </div>
+</body>
+</html>

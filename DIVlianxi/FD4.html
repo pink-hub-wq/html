@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>浮动4</title>
+<style>
+	div {
+		width: 1000px;
+		margin: 0px auto;
+		border: 1px solid #F00;
+		}
+	#div1 {
+		margin: 3px 5px;
+		border: 1px solid green;
+		width: 988px;
+		height: 132px;
+		float:left;
+		background-color: #039;
+		}
+	#divleft {
+		margin: 3px 5px;
+		border: 1px solid blue;
+		width: 220px;
+		height: 500px;
+		float:left;
+		background-color: #0CC;
+		}
+	#divcenter {
+		margin: 3px 5px;
+		border: 1px solid blue;
+		width: 520px;
+		height: 500px;
+		float:left;
+		}
+	#divcenter1 {
+		margin: 3px 5px 5px 5px;
+		border: 1px solid #30C;
+		width: 510px;
+		height: 240px;
+		float:left;
+		background-color: #06C;
+		}
+	#divcenter2 {
+		margin: 3px 5px 5px 5px;
+		border: 1px solid #30C;
+		width: 510px;
+		height: 240px;
+		float:left;
+		background-color: #06C;
+		}
+	#divright {
+		margin: 3px 5px;
+		border: 1px solid blue;
+		width: 220px;
+		height: 500px;
+		float:left;
+		background-color: #0CC;
+		}
+	#divbottom {
+		margin: 5px;
+		border: 1px solid green;
+		width: 988px;
+		height: 132px;
+		float:left;
+		background-color: #999;
+		}
+	.clear {
+		clear:both;
+		}
+</style>
+</head>
+
+<body>
+	<div>
+    	<div id="div1">顶部</div>
+        <div id="divleft">左边</div>
+        <div id="divcenter">
+            <div id="divcenter1">中上</div>
+            <div id="divcenter2">中下</div>
+        </div>		 
+        <div id="divright">右边</div>
+        <div id="divbottom">底部</div>
+        <div class="clear"></div>
+    </div>
+</body>
+</html>

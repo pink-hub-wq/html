@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>登录</title>
+<style type="text/css">
+    /*包裹所有内容的层*/
+    #wraper {
+		margin: 0px auto;/*居中*/
+		border: 1px solid #808080;/*设置层的边框*/
+		width: 500px; /*宽度*/
+		height: 300px;/*高度*/
+		margin-top: 100px; /*上面的外边距 100px*/
+	}
+	/*登录标题的样式*/
+	#top {
+		border:1px solid #666;
+		background-color: #ccc;
+		font-size: 18px;
+		font-family：黑体；
+		line-height: 25px;
+		margin: 0px;
+		padding: 0px;
+	}
+	/*下面的层*/
+	#mid {
+		margin-top: 20px;/*上外边距 20px*/
+		font-size: 16px; /*字体大小 16px*/
+		padding-left: 25px; /*左填充 25px*/
+	}
+	/*层mid下的表格样式*/
+	#mid table {
+		width: 450px;/*宽度为 450px*/
+	}
+	/*表格中的行高 32px*/
+	#mid table tr {
+		height: 32px;
+	}
+	/*右对齐*/
+	.right {
+		text-align: right;
+		padding-right: 5px;
+	}
+	/*输入框样式*/
+	.txtInput {
+		border: 1px solid #ccc;
+		width: 258px;
+		height: 24px;
+	}
+	/*居中*/
+	.center { text-align: center; }
+	/*字体为12px 的类样式*/
+	.fontsize {
+	font-size: 12px;
+	}
+	/*按钮样式*/
+	.btn {
+	width: 82px;
+	height: 32px;
+	background-color: #289cef; /*按钮的背景*/
+	padding :0px; /*去掉按钮的默认内边距*/
+	color: #fff; /*字体颜色为白色*/
+	font-size: 14px;
+	text-align: center;
+	line-height: 30px;
+	border: 0px;/*去掉按钮的默认边框*/
+	}
+	/*超链接的样式*/
+	#mid a {
+		color: #00c;
+		font-size: 12px;
+	}
+</style>	
+</head>
+
+<body>
+	<div id="wraper">
+        <h3 id="top">登录</h3>
+        <div id="mid">
+        	<form action="#" method="post">
+        		<table>
+       				 <tr>
+       					 <td class="right">帐号</td>
+       					 <td><input type-"text" class="txtInput"/></td>
+        			</tr>
+                    <tr>
+                        <td class="right">密码</td>
+                        <td><input type="text" class="txtInput" /></td>
+                    </tr>
+                    <tr><td></td>
+                    	<td class="fontsize">
+                    	<input type="checkbox"/> &nbsp; &nbsp;记住我的登录状态</td>
+                    </tr>
+                    <tr>
+                    	<td></td><td><input type="button" value="登录"class="btn"/>
+                    &nbsp; <a href="#">忘记密码？</a></td>
+                    </tr>
+                    <tr><td colspan="2" class="center"></td></tr>
+                    <tr><td></td>
+                    <td class="fontsize">还没有百度帐号？<a href ="#">立即注册</a></td>
+                    </tr>
+				</table>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+/* CSS Document */
+#content {
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 200px;	
+	}
+#gunzi {
+	float: left;
+	width: 1000px;
+	margin: 25px auto;
+	height: 30px;
+	border: none;
+	}
+#a {
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 200px;	
+	}
+#b {
+	border: none;
+	margin: 30px auto;
+	width: 1000px;
+	height: 50px;	
+	}
+#b h2{
+	color: blue;
+	float: left;	
+	}
+.c {
+	float: left;
+	}
+#b img {
+	margin: 20px;
+	}
+#d {
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 500px;	
+	}
+#tu1 {
+	width: 200px;
+	height: 470px;
+	border: none;
+	float:left;
+	}
+.tu {
+	border: none;
+	width: 200px;
+	height: 120px;
+	margin: 20px 0px 20px 0px;
+	float:left;
+	}
+#zi1 {
+	width: 280px;
+	height: 470px;
+	border: none;
+	float:left;
+	}
+#zi1 h5 {
+	color: blue;
+	}
+#zi1 p {
+	font-size: 15px;
+	}
+#tu2 {
+	width: 200px;
+	height: 470px;
+	border: none;
+	float:left;
+	}
+#zi2 {
+	width: 280px;
+	height: 470px;
+	border: none;
+	float:left;
+	}
+#zi2 h5 {
+	color: blue;
+	}
+#zi2 p {
+	font-size: 15px;
+	}
+#z {
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 100px;	
+	}
+#z1 {
+	border: none;
+	margin: 0px ;
+	width: 100px;
+	height: 90px;	
+	float: left;
+	}
+#z h4 {
+	float:right;
+	}
+#z2 {
+	border: none;
+	margin: 0px auto;
+	width: 770px;
+	height: 90px;
+	float: left;	
+	}
+#z2 ul li {
+	list-style: none;
+	margin: 20px 54px;
+	float: left;
+	}

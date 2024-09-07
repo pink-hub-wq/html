@@ -1,0 +1,87 @@
+/* CSS Document */
+body,ul,li {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	}
+#head {
+	background-color: white;
+	margin: 0px auto;
+	width: 1000px;
+	height: 100px;
+	}
+#head1 {
+	margin: 0px auto;
+	width: 1000px;
+	height: 48px;
+	border-bottom: 2px solid #693;
+	}
+#head2 {
+	margin: 0px auto;
+	width: 1000px;
+	height: 48px;
+	}
+#head1left {
+	margin: 0px auto;
+	width: 590px;
+	height: 48px;
+	float:left;
+	}
+#head1right {
+	margin: 0px auto;
+	width: 390px;
+	height: 48px;
+	float:left;
+	}
+#logo {
+	float:left;
+	margin: 0px 105px;
+	}
+#phone {
+	float:left;
+	margin: 5px auto 5px 200px;
+	}
+#head1right font {
+	margin:13px auto auto 0px;
+	font-size: 14px;
+	width:100px;
+	float:left;
+	}
+#head2left {
+	margin: 0px auto;
+	width: 590px;
+	height: 48px;
+	float:left;
+	}
+#head2right {
+	margin: 0px auto;
+	width: 390px;
+	height: 48px;
+	float:left;
+	}
+#head2left a {
+	float:left;
+	text-decoration:none;
+	color:#999;
+	margin:10px 30px 10px 50px;
+	}
+#sanwenwang {
+	margin: 10px auto 10px 80px;
+	float:left;
+	}
+#head2right a {
+	float:left;
+	text-decoration:none;
+	color:#999;
+	margin:10px 30px 5px 0px;
+	}
+#dingdan {
+	margin: 10px auto 10px 30px;
+	float:left
+	}
+#dingdan a {
+	float:left;
+	text-decoration:none;
+	color:#999;
+	margin:10px 30px 5px 0px;
+	}

@@ -1,0 +1,110 @@
+/* CSS Document */
+#content{
+	margin: 0px auto;
+	width: 1000px;
+	height: 700px;
+	background-color: #F7F7F7;
+	}
+#bai{
+	margin: 40px 100px auto 100px;
+	width: 800px;
+	height: 560px;
+	background-color: white;
+	float:left
+	}
+#yonghudenglu {
+	margin: 0px auto;
+	width: 800px;
+	height: 60px;
+	text-align:center;
+	border-bottom: 1px solid #0FF;
+	float:left;
+	}
+#yonghudenglu h2{
+	margin: 20px auto;
+	}
+#yonghudengluleft {
+	margin: 20px auto;
+	width: 400px;
+	height: 420px;
+	float:left;
+	border-right: 1px solid #0FF;
+	} 
+#shiyong h4{
+	float:left;
+	width: 140px;
+	}
+#shiyong font{
+	float:left;
+	color: red;
+	margin: 20px auto auto 0px;
+	}
+.weibo {
+	float:left;
+	width: 160px;
+	margin: 20px;
+	}
+#shiyong {
+	width:380px;
+	float:left;
+	}
+.fenx {
+	width:400px;
+	float:left;
+	margin:10px auto;
+	}
+.fenx font{
+	float:right;
+	}
+#yonghudengluright {
+	margin: 20px auto;
+	width: 380px;
+	height: 420px;
+	float:left;
+	}
+#shiyongright {
+	margin:0px auto auto 20px;
+	width:340px;
+	float:left;
+	}
+#shiyongright h4{
+	float:left;
+	width: 140px;
+	}
+#k {
+	display:block;
+	height:30px;
+	margin:0px auto;
+	width:240px;
+	float:left;
+	background-image: url(../images/namebg.jpg);
+	background-size: 30px 30px;
+	background-repeat:no-repeat;
+	}
+.g {
+	width:340px;
+	float:left;
+	margin: 10px auto 10px 20px;
+	}
+#h {
+	display:block;
+	height:30px;
+	margin:0px auto;
+	width:240px;
+	float:left;
+	background-image: url(../images/pwdbg.jpg);
+	background-size: 30px 30px;
+	background-repeat:no-repeat;
+	}
+#i {
+	display:block;
+	width: 80px;
+	height: 40px;
+	float:left;
+	margin: 0px 5px 0px 20px;
+	}
+.g a {
+	text-decoration: none;
+	color: green;
+	}
+

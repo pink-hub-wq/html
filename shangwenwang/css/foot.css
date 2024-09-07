@@ -1,0 +1,40 @@
+/* CSS Document */
+/* CSS Document */
+body,ul,li {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	}
+#footer {
+	background-color: #390;
+	margin: 0px auto;
+	width: 1000px;
+	height: 100px;
+	}
+#footermenu {
+	margin: 0px auto;
+	text-align: center;
+	line-height: 20px;
+	width:800px;
+	height:50px;
+	}
+#footer a {
+	color: white;
+	text-decoration: none;
+	}
+#footermenu ul li {
+	list-style:none;
+	float:left;
+	margin:20px 30px;
+	font-size: 20px;
+	display: inline-block;
+	
+	}
+#footercopyright {
+	width: 1000px;
+	margin: 0px auto;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+	float: left;
+	}

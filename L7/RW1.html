@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>页面整体布局</title>
+<style>
+	/*去掉所有标签默认的外边距与内边距*/
+	*{
+		margin: 0px;
+		padding: 0px;
+		}
+	#header,#main,#footer{
+		border: 1px solid black;/*显示层的外框*/
+		margin: 0px auto;/*居中*/
+		width: 980px;/*宽度统一为980px*/
+		 }
+	#header{
+		height: 110px;
+		}
+	#main{
+		height: auto;
+		}
+	#footer{
+		height: 120px;
+		}
+	#content{
+		width: 580px;
+		background-color: #b6ff00;
+		height: 200px;
+		float: left/*向左浮动*/
+		}
+	#leftside,#rightside{
+		width: 200px;
+		background-color: #b6ff00;
+		height: 200px;
+		float: left;
+		}
+	/*清除浮动的类样式*/
+	.clear{ clear: both; }
+</style>
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="header">顶部</div> 
+        <div id="main">
+        	<div id="leftside">左边部分</div>
+            <div id="content">中间部分</div>
+            <div id="rightside">右边部分</div>
+            <div class="clear"></div>
+        </div>
+        <div id="footer">底部</div>    
+    </div>
+</body>
+</html>

@@ -1,0 +1,93 @@
+/* CSS Document */
+#content {
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 400px;	
+	}
+#contenttopleft {
+	border: none;;
+	margin: 40px 0px 0px 0px;
+	width: 700px;
+	height: 150px;
+	float: left;	
+	}
+#contenttopleft h1 {
+	margin: 0px auto;
+	text-align: center;	
+	}
+#contenttopleft2 {
+	border: none;
+	margin: 0px;
+	width: 700px;
+	height: 900px;
+	float: left;	
+	}
+#contenttopleft2 h4 {
+	margin: 0px auto;
+	text-align: center;
+	color: purple;	
+	}
+#contenttopleft2 h5 {
+	margin: 0px auto;
+	text-align: center;
+	color: red;	
+	}
+#contenttopright {
+	border: none;
+	margin: 0px;
+	width: 230px;
+	height: 900px;
+	float: left;	
+	}
+#contenttopright2 {
+	border: none;
+	margin: 20px;
+	width: 230px;
+	height: 30px;
+	float: left;	
+	}
+#contentbottom {
+	border: none;
+	width: 1000px;
+	height: 420px;
+	margin: 0px auto;
+	margin-top: 700px;
+
+	}
+#contentbottom h4 {
+	margin: 0px auto;
+	text-align: center;
+	color: purple;	
+	}
+#d {
+	float: left;
+	}
+#c {
+	border: none;
+	width: 500px;
+	height: 400px;
+	float: left;
+	
+	}
+#e {
+	border: none;
+	width: 200px;
+	height: 400px;
+	float: left;
+	
+	}
+.f {
+	border: none;
+	width: 90px;
+	height: 70px;
+	float: left;	
+	}
+.g {
+	border: none;
+	width: 99px;
+	height: 100px;
+	float: left;	
+	}
+
+

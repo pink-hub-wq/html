@@ -1,0 +1,223 @@
+
+/* CSS Document */
+body,ul,li, h3, dl, dt, dd  {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+#topcolor {
+	background-color: #7B1C00;
+	width: 100%;
+	height: 100%;
+}
+#top {
+	background-image:url(../images/head-bg.jpg);
+	width: 1000px;
+	height: 110px;
+	margin: 0px auto;
+	background-repeat: no-repeat;
+}
+#logo {
+	display: block;
+	float: left;
+	width: 152px;
+	height: 34px;
+	margin-top: 38px;
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+}
+#menu {
+	float: left;
+	margin-left: 90px;
+	font-family: "微软雅黑";
+	font-size: 20px;
+	width: 580px;
+	height: 110px;
+}
+#menu ul li a {
+	display:block;
+	color: white;
+	width: 111px;
+	height: 87px;
+	text-decoration: none;
+}
+#menu ul li {
+	float: left;
+	margin-top: 18px;
+	font-weight: bold;
+	line-height: 87px;
+	width: 111px;
+	text-align: center;
+}
+.choose {
+	float: right;
+	margin-top: 55px;
+	font-size: 12px;
+	color: #cca294;
+}
+.choose a {
+	color: #6C9;
+	margin: 5px;
+	text-decoration: none;
+}
+.choose a:hover { color: white; }
+#top2color{
+	width: 100%;
+	height: 100%;
+	background-color: #e5e5e5;
+	border-bottom: 1px #cecece solid;
+	border-top: 1px #cecece solid;
+	background-repeat: no-repeat;
+}
+#top2 {
+	display: block;
+	width: 1000px;
+	height: 500px;
+	margin: 0px auto;
+	background-image: url(../images/banner.jpg);
+}
+#xiazai {
+	background-image: url(../images/icon-bg.png);
+	display: block;
+	float: left;
+	width: 200px;
+	height: 120px;
+	margin-top: 380px;
+	margin-left: 100px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	}
+#xiazai ul li {
+	display: inline-block;
+	margin-top: 200px;
+	margin-left: 8px;
+	float: left;
+	margin-top: 18px;
+	font-weight: bold;
+	line-height: 87px;
+	width: 111px;
+	text-align: center;
+	
+}
+#xiazai a { 
+	margin: 15.5px;
+	text-decoration: none;
+	color: #C0C;
+}
+#top3 {
+	width: 100%;
+	height: 200px;
+	background-color: #e5e5e5;
+	border-bottom: 1px #cecece solid;
+	border-top: 1px #cecece solid;
+}
+#video {
+	width: 1000px;
+	margin: 0px auto;
+}
+#video ul li {
+	float: left;
+	text-align: center;
+	width: 250px;
+	height: 110px;
+	margin-top: 30px;
+}
+a.tu1,a.tu2,a.tu3,a.tu4 {
+	display: block;
+	width: 98px;
+	height: 98px;
+	margin: 0px auto;
+}
+#video .tu1{ background-image:url(../images/video1.png);}
+#video .tu2{ background-image:url(../images/video2.png);}
+#video .tu3{ background-image:url(../images/video3.png);}
+#video .tu4{ background-image:url(../images/video4.png);}
+#video h3 {
+	font-size: 12px;
+	color: #909091;
+	padding-top: 15px;
+}
+#footer {
+	background-color: #2F2F2F;
+	width: 100%;
+	color:white;
+	font-family:"微软雅黑";
+	padding-top:50px;
+	padding-bottom:20px;
+}
+#footera{
+	width:800px;
+	margin:0px auto;
+	text-align:center;
+}
+#footera ul li {
+	float:left;
+	width:104px;
+}
+.clear {
+	clear:both;
+}
+#footer a {
+	color:white;
+	font-size:12px;
+	text-decoration:none;
+}
+#footera h4 {
+	font-size: 14px;
+	line-height: 16px;
+	border-left: 4px solid #EC6117;
+	margin-left:-11px;
+	padding-left: 7px;
+	margin-bottom: 30px;
+}
+.mid {
+	margin-left:230px;
+	margin-right:240px;
+}
+.copy {
+	color: #BFBFBF;
+	font-size: 12px;
+	margin: 32px auto 20px;
+	text-align: center;
+}
+.b { text-align:center;}
+#bottom {
+	width: 100%;
+	height: 460px;
+	background-color: white;
+}
+#gongneng {
+	width: 1000px;
+	margin: 0px auto;
+}
+#gongneng ul li {
+	float: left;
+	text-align: center;
+	width: 250px;
+	height: 220px;
+	margin-top: 30px;
+}
+a.g1,a.g2,a.g3,a.g4,a.g5,a.g6,a.g7,a.g8 {
+	display: block;
+	width: 98px;
+	height: 98px;
+	margin: 0px auto;
+}
+#gongneng .g1{ background-image: url(../images/ico-1.jpg)}
+#gongneng .g2{ background-image:url(../images/ico-2.jpg);}
+#gongneng .g3{ background-image:url(../images/ico-3.jpg);}
+#gongneng .g4{ background-image:url(../images/ico-4.jpg);}
+#gongneng .g5{ background-image: url(../images/ico-5.jpg)}
+#gongneng .g6{ background-image:url(../images/ico-6.jpg);}
+#gongneng .g7{ background-image:url(../images/ico-7.jpg);}
+#gongneng .g8{ background-image:url(../images/ico-8.jpg);}
+#gongneng h2 {
+	font-size: 20px;
+	color: #000;
+	padding-top: 15px;
+}
+#liaojie {
+	width: 1000px;
+	margin: 0px auto;
+}

@@ -1,0 +1,124 @@
+/* CSS Document */
+#a {
+	margin: 0px auto;
+	width: 1000px;
+	height: 400px;
+	background-color: black;
+	}
+#a1 {
+	margin: 0px auto;
+	width: 800px;
+	}
+#b {
+	margin: 0px auto;
+	width: 1000px;
+	height: 600px;
+	background-color: #F7F7F7;
+}
+#b1 {
+	margin: 0px auto;
+	width: 800px;
+	height: 600px;
+	background-color: white;
+	}
+#btop1 {
+	margin: 0px auto;
+	width: 800px;
+	height: 30px;
+	}
+.cf {
+	float:left;
+	margin: 0px auto;
+	}
+#btop1 h4 {
+	margin: 0px auto 0px 0px;
+	}
+#btop2 {
+	margin: 0px auto;
+	width: 800px;
+	height: 60px;
+	}
+.tu {
+	margin:0px 10px;
+	float:left;
+	}
+#btop3 {
+	margin: 0px auto;
+	width: 420px;
+	height: 30px;
+	float:left;
+	}
+#btop3 h4 {
+	margin: 0px auto 0px 0px;
+	}
+#bright {
+	margin: 0px auto;
+	width: 280px;
+	height: 380px;
+	float:left;
+	background-image:url(../images/topbg.jpg);
+	background-size: 300px 372px;
+	background-repeat:no-repeat;
+	}
+#btop4 {
+	margin: 0px auto;
+	width: 420px;
+	height: 80px;
+	float:left;
+	}
+#tu1 {
+	float:left;
+	padding-bottom: 0px;
+	}
+#kuang2 {
+	display:block;
+	width:340px;
+	height:50px;
+	float:left;
+	}
+#bright ol li {
+	margin: 10px auto;
+	font-size: 12px;
+	}
+#bright ol {
+	margin: 40px 0px 0px 0px;
+	}
+#btop5 {
+	margin: 0px auto;
+	width: 384px;
+	height: 30px;
+	float:left;
+	}
+#f {
+	float:right;
+	}
+#btop6 {
+	margin: 0px auto;
+	width: 420px;
+	height: 80px;
+	float:left;
+	}
+.touxiang {
+	float:left;
+	margin: 40px auto;
+	}
+.yixiao {
+	float:left;
+	margin: 40px auto;
+	font-size:12px;
+	color:#999;
+	}
+.huifu {
+	float:right;
+	margin: 60px auto;
+	font-size:12px;
+	color: #3F9;
+	}
+#left {
+	margin: 0px auto;
+	width: 450px;
+	height: 480px;
+	background-color: white;
+	float: left;
+	}
+

@@ -1,0 +1,53 @@
+/* CSS Document */
+#content {
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 360px;	
+	}
+#contentleft {
+	border: none;
+	width: 360px;
+	height: 360px;
+	float: left;
+	margin: 40px 10px 0px 0px;	
+	}
+#contentright {
+	border: none;
+	width: 620px;
+	height: 360px;
+	float: left;
+	margin: 40px auto;	
+	}
+#contentright h4 {
+	color: #66F
+	}
+
+#tu{
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 50px;
+	}
+#remen {
+	float: left;
+	margin-top: -80px;
+	}
+.clear {
+	clear: both;
+	}
+#mid {
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 500px;	
+	}
+#mid h5 {
+	color: #03F;
+	}
+.zi {
+	float: left;
+	margin: 0px 30px;
+	}
+
+

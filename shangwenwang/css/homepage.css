@@ -1,0 +1,219 @@
+/* CSS Document */
+body,ul,li {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	}
+#a {
+	margin: 0px auto;
+	width: 1000px;
+	height: 1366px;
+	}
+#b {
+	background-image:url(../images/main.jpg);
+	background-size: 1400px 300px;
+	margin: 0px auto;
+	width: 1000px;
+	height: 300px;
+	background-clip: border-box;
+	}
+#b1 {
+	background-color: white;
+	margin: 20px auto auto 80px;
+	float:left;
+	width: 320px;
+	height:240px;
+	}
+#b11 {
+	width: 320px;
+	height:70px;
+	float:left;
+	border-bottom: 1px solid #999;
+	}
+#b111{
+	float:left;
+	margin: 10px auto auto 10px;
+	}
+#b11 h4 {
+	float:left;
+	width:200px;
+	color:#693;
+	margin: 14px auto auto 10px;
+	}
+#b11 font {
+	width:220px;
+	margin:4px auto auto 20px;
+	float:left;
+	font-size: 12px;
+	}
+#b12 {
+	width: 320px;
+	height:70px;
+	float:left;
+	border-bottom: 1px solid #999;
+	}
+#b121{
+	float:left;
+	margin: 10px auto auto 10px;
+	}
+#b12 h4 {
+	float:left;
+	width:200px;
+	color:#693;
+	margin: 14px auto auto 10px;
+	}
+#b12 font {
+	width:220px;
+	margin:4px auto auto 20px;
+	float:left;
+	font-size: 12px;
+	}
+#b13 {
+	width: 320px;
+	height:70px;
+	float:left;
+	}
+#b131{
+	float:left;
+	margin: 10px auto auto 10px;
+	}
+#b13 h4 {
+	float:left;
+	width:200px;
+	color:#693;
+	margin: 14px auto auto 10px;
+	}
+#b13 font {
+	width:220px;
+	margin:4px auto auto 20px;
+	float:left;
+	font-size: 12px;
+	}
+#c {
+	margin: 0px auto;
+	width: 850px;
+	height: 30px;
+	text-align:center;
+	padding:0px 0px 0px 150px;
+	}
+#c font {
+	float:left;
+	margin: 0px auto;
+	font-size:24px;
+	color: #693;
+	text-align:center;
+	}
+#d {
+	margin: 0px auto;
+	width: 1000px;
+	height: 1000px;
+	background-color: #F5F5F5;
+	float:left;
+	}
+.tu1 {
+	margin: 0px 50px;
+	float:left;
+	height:30px;
+	}
+#dleft {
+	margin: 0px 10px 0px 50px;
+	width: 620px;
+	height: 540px;
+	background-color: #F5F5F5;
+	float:left;
+	}
+.tuleft {
+	float:left;
+	margin:10px 2px auto 0px;
+	}
+.turight {
+	float:left;
+	margin:10px auto auto 2px;
+	}
+#dright {
+	margin: 0px auto;
+	width: 260px;
+	height: 540px;
+	background-color: #F5F5F5;
+	float:left;
+	}
+#turightright {
+	float:left;
+	}
+#e {
+	margin: 0px auto;
+	width: 1000px;
+	height: 150px;
+	background-color: #F5F5F5;
+	float:left;
+	}
+#tu2 {
+	margin: 0px 10px auto 50px;
+	float:left;
+	}
+.tu2 {
+	margin:0px 10px auto auto;
+	float:left;
+}
+#f {
+	margin: 0px auto;
+	width: 1000px;
+	height: 50px;
+	background-color: #F5F5F5;
+	float:left;
+	}
+#f h4 {
+	float:left;
+	width:250px;
+	height: 25px;
+	margin:0px auto;
+	text-align:center;
+	}
+#f font {
+	float:left;
+	width:250px;
+	height: 25px;
+	font-size: 13px;
+	}
+#g {
+	margin: 0px auto;
+	width: 1000px;
+	height: 150px;
+	background-color: #F5F5F5;
+	float:left;
+	}
+#tu3 {
+	margin: 10px 0px auto 70px;
+	float:left;
+	}
+.tu3 {
+	margin:10px auto auto 50px;
+	float:left;
+}
+#h {
+	margin: 0px auto;
+	width: 1000px;
+	height: 50px;
+	background-color: #F5F5F5;
+	float:left;
+	}
+#h h4 {
+	float:left;
+	width:250px;
+	height: 25px;
+	margin:0px auto;
+	text-align:center;
+	color:#999;
+	}
+#h h5 {
+	float:left;
+	width:250px;
+	height: 25px;
+	margin:0px auto;
+	text-align:center;
+	}
+#tu4 {
+	margin: 10px 0px auto 70px;
+	float:left;
+	}
+

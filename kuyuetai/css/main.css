@@ -1,0 +1,152 @@
+/* CSS Document */
+#a {
+	margin: 0px auto;
+	width: 1000px;
+	height: 400px;	
+	}
+#b {
+	margin: 0px auto;
+	width: 1000px;
+	height: 560px;
+	background-color: #F7F7F7;
+	}
+#btop1 {
+	float:left;
+	width:500px;
+	height:52px;
+	margin:0px 50px;
+	}
+#btop2 {
+	float:left;
+	width:300px;
+	height:52px;
+	margin:0px 50px;
+	}
+#btop2 a{
+	color: #666;
+	text-decoration: none;
+	font-size: 12px;
+	margin: 0px auto;
+	line-height: 52px;
+	}
+#btop3 {
+	float:left;
+	width:320px;
+	height:200px;
+	margin:0px 50px;
+	}
+#btop4 {
+	float:left;
+	width:450px;
+	height:200px;
+	margin:0px 50px 0px 10px;
+	}
+#btop5 {
+	float:left;
+	width:500px;
+	height:52px;
+	margin:0px 50px;
+	}
+#btop6 {
+	float:left;
+	width:300px;
+	height:52px;
+	margin:0px 50px;
+	}
+#btop6 a{
+	color: #666;
+	text-decoration: none;
+	font-size: 12px;
+	margin: 0px auto;
+	line-height: 52px;
+	}
+#btop7 {
+	float:left;
+	width:320px;
+	height:200px;
+	margin:0px 50px;
+	}
+#btop8 {
+	float:left;
+	width:450px;
+	height:200px;
+	margin:0px 50px 0px 10px;
+	}
+#btop9 {
+	float:left;
+	width:150px;
+	height:200px;
+	margin:0px auto;
+	}
+
+#btop10 {
+	float:left;
+	width:300px;
+	height:200px;
+	margin:0px auto;
+	}
+.float {
+	float:left;
+	}
+.clear {
+	clear:both；
+	}
+#btop11 {
+	float:left;
+	width:500px;
+	height:52px;
+	margin:0px 50px;
+	}
+#btop12 {
+	float:right;
+	width:300px;
+	height:52px;
+	margin:0px 50px;
+	}
+#btop12 a{
+	float:right;
+	color: #666;
+	text-decoration: none;
+	font-size: 12px;
+	margin: 0px auto;
+	line-height: 52px;
+	}
+#c {
+	margin: 0px auto;
+	width: 1000px;
+	height: 180px;	
+	background-color: #F7F7F7;
+	}
+#c img {
+	margin: 0px auto;
+	}
+.tupian {
+	float: left;
+	margin: 0px auto;
+	width: 180px;
+	height:180px;
+	}
+#tupian1 {
+	float: left;
+	margin: 0px 0px 0px 50px;
+	width: 180px;
+	height:180px;
+	}
+#d {
+	margin: 0px auto;
+	width: 1000px;
+	height: 60px;	
+	background-color: #F7F7F7;
+	}
+.zi {
+	float: left;
+	margin: 0px auto;
+	width: 180px;
+	height:40px;
+	}
+#zi1 {
+	float: left;
+	margin: 0px 0px 0px 50px;
+	width: 180px;
+	height:40px;
+	}

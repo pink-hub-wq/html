@@ -1,0 +1,56 @@
+/* CSS Document */
+body,ul,li {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	}
+#head {
+	background-color: black;
+	margin: 0px auto;
+	width: 1000px;
+	height: 40px;
+	}
+#headleft {
+	float: left;
+	}
+#menu {
+	width: 420px;
+	height: 38px;
+	float: left;
+	}
+#menu a{
+	color: white;
+	text-decoration: none;
+	font-size: 10px;
+	margin: 10px auto;
+	line-height: 40px;
+	}
+#search {
+	width: 220px;
+	float: left;
+	margin: 10px 30px;
+	position:relative;
+	}
+#kuang {
+	float: left;
+	padding-left:30px;
+	background-image:url(../images/search.png);
+	background-size: 24px 22px;
+	background-repeat:no-repeat;
+	}
+#tu1 {
+	float:left;
+	margin: 1px;
+	}
+#topright {
+	width: 120px;
+	height: 38px;
+	float: left;
+	}
+#topright a{
+	color: white;
+	text-decoration: none;
+	font-size: 10px;
+	margin: 10px auto;
+	line-height: 40px;
+	}
